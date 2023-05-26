@@ -1,6 +1,3 @@
-# Ayomide Ayowole-Obi
-# Data Mining & Visualization 
-# Assignment 7
 # 4/18/23
 
 # Importing the dataset
